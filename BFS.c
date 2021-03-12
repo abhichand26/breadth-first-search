@@ -5,7 +5,7 @@
 #define BIG 1000
 
 /*
-** Program to do a depth first search
+** Program to do a breadth first search
 ** Made by - Abhishek Chand
 */
 
